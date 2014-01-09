@@ -4,7 +4,7 @@ body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
-  font-weight:550;
+  font-weight:600;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -34,7 +34,7 @@ h3, h4, h5, h6 {
 
 a {
   color:#39c;
-  font-weight:550;
+  font-weight:600;
   text-decoration:none;
 }
 
@@ -140,7 +140,7 @@ header ul a {
 
 strong {
   color:#222;
-  font-weight:700;
+  font-weight:800;
 }
 
 header ul li + li {
