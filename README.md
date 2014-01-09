@@ -1,4 +1,4 @@
-strategic-implementation-plan
+Strategic Implementation Plan
 =============================
 
-This is the implementation plan for the National Strategy for Information Sharing and Safeguarding
+This is the implementation plan for the National Strategy for Information Sharing and Safeguarding.
